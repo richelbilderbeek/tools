@@ -2,7 +2,7 @@
 
 On this page you can find the tools I have written (in [C++](Cpp.htm))
 and tools I use. Tools for entertainment purposes can be found at [my
-games page](Games.htm).
+games page](https://github.com/richelbilderbeek/games).
 
 ## Tools I have written
 
