@@ -203,7 +203,7 @@ compile under Qt Creator.
 
  * [FakeEvy](ToolFakeEvy.htm): replacement of Evy Greyearts' 'Start To Run' series
  * [NdsPaint](ToolNdsPaint.htm): NDS paint 
- * ![Raspbian](PicRaspbian.png)[Rasper](ToolRasper.htm): control the [Raspberry Pi](CppRpi.htm) its GPIO pins from a web interface
+ * [Rasper](ToolRasper.htm): control the [Raspberry Pi](CppRpi.htm) its GPIO pins from a web interface
  * [MidiLessonCreator](ToolMidiLessonCreator.htm): Creates MIDI lessons
  * [TicTacToeLearner](ToolTicTacToeLearner.htm): demonstration of machine learning by evolving neural networks
  * [TicTacToeValuer](ToolTicTacToeValuer.htm): demonstration of machine learning by state-value graph
