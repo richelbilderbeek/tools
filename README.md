@@ -201,7 +201,7 @@ compile under Qt Creator.
 
 ## Unfinished and unmaintained 
 
- * [FakeEvy](ToolFakeEvy.htm): replacement of Evy Greyearts' 'Start To Run' series
+ * [FakeEvy](ToolFakeEvy.htm): replacement of Evy Gruyearts' 'Start To Run' series
  * [NdsPaint](ToolNdsPaint.htm): NDS paint 
  * [Rasper](ToolRasper.htm): control the [Raspberry Pi](CppRpi.htm) its GPIO pins from a web interface
  * [MidiLessonCreator](ToolMidiLessonCreator.htm): Creates MIDI lessons
