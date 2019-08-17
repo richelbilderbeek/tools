@@ -5,13 +5,13 @@ Branch   |[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
 `master` |[![Build Status](https://travis-ci.org/richelbilderbeek/tools.svg?branch=master)](https://travis-ci.org/richelbilderbeek/tools)
 `develop`|[![Build Status](https://travis-ci.org/richelbilderbeek/tools.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/tools)
 
-On this page you can find the tools I have written (in [C++](Cpp.htm))
-and tools I use. Tools for entertainment purposes can be found at [my
-games page](https://github.com/richelbilderbeek/games).
+On this page you can find the tools I have 
+written (mostly in [C++](https://github.com/richelbilderbeek/cpp/blob/master/content/Cpp.md))
+and tools I use. Tools for entertainment purposes can be found at [my games page](https://github.com/richelbilderbeek/games).
 
 ## Tools I have written
 
-I have written all these tools in [C++](Cpp.htm).
+I have written all these tools in [C++](https://github.com/richelbilderbeek/cpp/blob/master/content/Cpp.md).
 
 Download the executables and/or source code freely.
 
@@ -66,7 +66,7 @@ All my tools are licenced under GPL 3.0.
  * [![Build Status](https://travis-ci.org/richelbilderbeek/SecretMessage.svg?branch=master)](https://travis-ci.org/richelbilderbeek/SecretMessage) [![codecov.io](https://codecov.io/github/richelbilderbeek/SecretMessage/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/SecretMessage?branch=master) [SecretMessage](https://github.com/richelbilderbeek/SecretMessage): tool to add/extract secret messages to/from bitmaps
  * [![Build Status](https://travis-ci.org/richelbilderbeek/SimMysteryMachine.svg?branch=master)](https://travis-ci.org/richelbilderbeek/SimMysteryMachine) [![codecov.io](https://codecov.io/github/richelbilderbeek/SimMysteryMachine/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/SimMysteryMachine?branch=master) [SimMysteryMachine](https://github.com/richelbilderbeek/SimMysteryMachine): simulates my mystery machine
  * [![Build Status](https://travis-ci.org/richelbilderbeek/SimpleLinearRegression.svg?branch=master)](https://travis-ci.org/richelbilderbeek/SimpleLinearRegression) [![codecov.io](https://codecov.io/github/richelbilderbeek/SimpleLinearRegression/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/SimpleLinearRegression?branch=master) [SimpleLinearRegression](https://github.com/richelbilderbeek/SimpleLinearRegression): do a simple linear regression
- * [![Build Status](https://travis-ci.org/richelbilderbeek/SimplifyNewick.svg?branch=master)](https://travis-ci.org/richelbilderbeek/SimplifyNewick) [![codecov.io](https://codecov.io/github/richelbilderbeek/SimplifyNewick/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/SimplifyNewick?branch=master) [SimplifyNewick](https://github.com/richelbilderbeek/SimplifyNewick): Simplify a phylogeny (in the [Newick](CppNewick.htm) format) below a certain complexity
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/SimplifyNewick.svg?branch=master)](https://travis-ci.org/richelbilderbeek/SimplifyNewick) [![codecov.io](https://codecov.io/github/richelbilderbeek/SimplifyNewick/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/SimplifyNewick?branch=master) [SimplifyNewick](https://github.com/richelbilderbeek/SimplifyNewick): Simplify a phylogeny (in the [Newick](https://github.com/richelbilderbeek/cpp/blob/master/content/CppNewick.md) format) below a certain complexity
  * [![Build Status](https://travis-ci.org/richelbilderbeek/SpeciesOfTheRings.svg?branch=master)](https://travis-ci.org/richelbilderbeek/SpeciesOfTheRings) [![codecov.io](https://codecov.io/github/richelbilderbeek/SpeciesOfTheRings/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/SpeciesOfTheRings?branch=master) [SpeciesOfTheRings](https://github.com/richelbilderbeek/SpeciesOfTheRings): 
  * [![Build Status](https://travis-ci.org/richelbilderbeek/StaircaseCardCreator.svg?branch=master)](https://travis-ci.org/richelbilderbeek/StaircaseCardCreator) [![codecov.io](https://codecov.io/github/richelbilderbeek/StaircaseCardCreator/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/StaircaseCardCreator?branch=master) [StaircaseCardCreator](https://github.com/richelbilderbeek/StaircaseCardCreator): generates a staircase card
  * [![Build Status](https://travis-ci.org/richelbilderbeek/StateObserver.svg?branch=master)](https://travis-ci.org/richelbilderbeek/StateObserver) [![codecov.io](https://codecov.io/github/richelbilderbeek/StateObserver/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/StateObserver?branch=master) [StateObserver](https://github.com/richelbilderbeek/StateObserver): examine state observers
@@ -81,163 +81,71 @@ All my tools are licenced under GPL 3.0.
 
 ### NDS
 
- * [![Build Status](https://travis-ci.org/richelbilderbeek/ndsmake.svg?branch=master)](https://travis-ci.org/richelbilderbeek/ndsmake) [![codecov.io](https://codecov.io/github/richelbilderbeek/ndsmake/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/ndsmake?branch=master) [ndsmake](https://github.com/richelbilderbeek/ndsmake): generate [Makefiles](CppMakefile.htm) for [NDS](CppNds.htm)
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/ndsmake.svg?branch=master)](https://travis-ci.org/richelbilderbeek/ndsmake) [![codecov.io](https://codecov.io/github/richelbilderbeek/ndsmake/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/ndsmake?branch=master) [ndsmake](https://github.com/richelbilderbeek/ndsmake): generate [Makefiles](https://github.com/richelbilderbeek/cpp/blob/master/content/CppMakefile.md) for [NDS](https://github.com/richelbilderbeek/cpp/blob/master/content/CppNds.md)
 
 ### C++ Builder
 
 Finished and working, but not maintained anymore.
 
- * [AsciiArter (VCL)](ToolAsciiArterVcl.htm): convert images to [ASCII art](CppAsciiArt.htm)
- * [BarbaImage](ToolBarbaImage.htm): image manipulation
- * [DotMatrix (VCL)](ToolDotMatrixVcl.htm): displays character in dot-matrix (5x7) font
- * [FilterOperationer (VCL)](ToolFilterOperationerVcl.htm): performs filter operations on images
- * [Frysk Leare Lieder](ToolFryskLeareLieder.htm): learning the Frysian language
- * [FunctionPlotter (VCL)](ToolFunctionPlotterVcl.htm): plots a one-dimensional function.
- * [GaborFilter (VCL)](ToolGaborFilterVcl.htm): performs Gabor filtering on bitmaps
- * [GrayCoder (VCL)](ToolGrayCoderVcl.htm): convert integer to Gray code and vice versa
- * [HistogramEqualizationer (VCL)](ToolHistogramEqualizationerVcl.htm): performs a histogram equalization on an image
- * [Hometrainer (VCL)](ToolHometrainerVcl.htm): an educational survey suite for generating, taking and scoring exercises and tests
- * [Image Rotater (CLX)](ToolImageRotaterClx.htm): rotates images
- * [Image Rotater (VCL)](ToolImageRotaterVcl.htm): rotates images
- * [KeySender](ToolKeySender.htm): send virtual key presses to windows
- * [Leary Circumplex](ToolLearyCircumplex.htm): generate an image of a Leary circumplex
- * [Logistic Growth Simulator](ToolLogisticGrowthSimulator.htm): simulation of the logistic growth equation
- * [Maze Creator (VCL)](ToolMazeCreatorVcl.htm): creates a maze
- * [Morpher](ToolMorpher.htm): generates intermediates of two images
- * [MultiEncranger (VCL)](ToolMultiEncrangerVcl.htm): multi-line version of Encranger
- * [Paper-Rock-Scissors simulation (VCL)](ToolPaperRockScissorsVcl.htm): a paper-rock-scissors simulation
- * [Pixelator (VCL)](ToolPixelatorVcl.htm): pixelates images
- * [PrimeExpert (VCL)](ToolPrimeExpertVcl.htm): determines if a number is prime
- * [QuadraticSolver (VCL)](CppQuadraticSolverVcl.htm): solves quadratic equations
- * [Random Code (VCL)](ToolRandomCodeVcl.htm): generates random C++ code
- * [Refrigerator Puzzle Solver](ToolRefrigeratorPuzzleSolver.htm): solves a certain refrigerator puzzle
- * [SecretMessage (VCL)](ToolSecretMessageVcl.htm): tool to add/extract secret messages to/from bitmaps
- * [SimBrainiac](ToolSimBrainiac.htm): simulation of the teaching form 'Brainiac'
- * [SimImmuneResponse](ToolSimImmuneResponse.htm): active simulation of the human immune response
- * [SimStagecraft](ToolSimStagecraft.htm): simulation of stagecraft (connecting and using theatre equipment)
- * [SineApprox(VCL)](ToolSineApproxVcl.htm): sine approximator
- * [SimSpatialSir](SimSpatialSir.htm): SIR spatial simulation for a lecture by Thomas Berngruber
- * [SoaSim](ToolSoaSim.htm): simulation of a sexually transmitted disease
- * [SolvePuzzleX](ToolSolvePuzzleX.htm): solves the puzzle from X
- * [SurfacePlotter (VCL)](ToolSurfacePlotterVcl.htm): plots a user-defined two-dimensional function.
- * [ThresholdFilterer (VCL)](ToolThresholdFiltererVcl.htm): performs a threshold filter operation on an image
+ * [AsciiArter (VCL)](https://github.com/richelbilderbeek/AsciiArterVcl): convert images to [ASCII art](https://github.com/richelbilderbeek/cpp/blob/master/content/CppAsciiArt.md)
+ * [BarbaImage](https://github.com/richelbilderbeek/BarbaImage): image manipulation
+ * [DotMatrix (VCL)](https://github.com/richelbilderbeek/DotMatrixVcl): displays character in dot-matrix (5x7) font
+ * [FilterOperationer (VCL)](https://github.com/richelbilderbeek/FilterOperationerVcl): performs filter operations on images
+ * [Frysk Leare Lieder](https://github.com/richelbilderbeek/FryskLeareLieder): learning the Frysian language
+ * [FunctionPlotter (VCL)](https://github.com/richelbilderbeek/FunctionPlotterVcl): plots a one-dimensional function.
+ * [GaborFilter (VCL)](https://github.com/richelbilderbeek/GaborFilterVcl): performs Gabor filtering on bitmaps
+ * [GrayCoder (VCL)](https://github.com/richelbilderbeek/GrayCoderVcl): convert integer to Gray code and vice versa
+ * [HistogramEqualizationer (VCL)](https://github.com/richelbilderbeek/HistogramEqualizationerVcl): performs a histogram equalization on an image
+ * [Hometrainer (VCL)](https://github.com/richelbilderbeek/HometrainerVcl): an educational survey suite for generating, taking and scoring exercises and tests
+ * [Image Rotater (CLX)](https://github.com/richelbilderbeek/ImageRotaterClx): rotates images
+ * [Image Rotater (VCL)](https://github.com/richelbilderbeek/ImageRotaterVcl): rotates images
+ * [KeySender](https://github.com/richelbilderbeek/KeySender): send virtual key presses to windows
+ * [Leary Circumplex](https://github.com/richelbilderbeek/LearyCircumplex): generate an image of a Leary circumplex
+ * [Logistic Growth Simulator](https://github.com/richelbilderbeek/LogisticGrowthSimulator): simulation of the logistic growth equation
+ * [Maze Creator (VCL)](https://github.com/richelbilderbeek/MazeCreatorVcl): creates a maze
+ * [Morpher](https://github.com/richelbilderbeek/Morpher): generates intermediates of two images
+ * [MultiEncranger (VCL)](https://github.com/richelbilderbeek/MultiEncrangerVcl): multi-line version of Encranger
+ * [Paper-Rock-Scissors simulation (VCL)](https://github.com/richelbilderbeek/PaperRockScissorsVcl): a paper-rock-scissors simulation
+ * [Pixelator (VCL)](https://github.com/richelbilderbeek/PixelatorVcl): pixelates images
+ * [PrimeExpert (VCL)](https://github.com/richelbilderbeek/PrimeExpertVcl): determines if a number is prime
+ * [QuadraticSolver (VCL)](https://github.com/richelbilderbeek/QuadraticSolverVcl): solves quadratic equations
+ * [Random Code (VCL)](https://github.com/richelbilderbeek/RandomCodeVcl): generates random C++ code
+ * [Refrigerator Puzzle Solver](https://github.com/richelbilderbeek/RefrigeratorPuzzleSolverVcl): solves a certain refrigerator puzzle
+ * [SecretMessage (VCL)](https://github.com/richelbilderbeek/SecretMessageVcl): tool to add/extract secret messages to/from bitmaps
+ * [SimBrainiac](https://github.com/richelbilderbeek/SimBrainiac): simulation of the teaching form 'Brainiac'
+ * [SimImmuneResponse](https://github.com/richelbilderbeek/SimImmuneResponse): active simulation of the human immune response
+ * [SimStagecraft](https://github.com/richelbilderbeek/SimStagecraft): simulation of stagecraft (connecting and using theatre equipment)
+ * [SineApprox(VCL)](https://github.com/richelbilderbeek/SineApproxVcl): sine approximator
+ * [SoaSim](https://github.com/richelbilderbeek/SoaSim): simulation of a sexually transmitted disease
+ * [SurfacePlotter (VCL)](https://github.com/richelbilderbeek/SurfacePlotterVcl): plots a user-defined two-dimensional function.
+ * [ThresholdFilterer (VCL)](https://github.com/richelbilderbeek/ThresholdFiltererVcl): performs a threshold filter operation on an image
 
 ## Tools I have modified
 
 These are tools that I experiment with, for example, getting it to
 compile under Qt Creator.
 
- * [AutoMix](ToolAutoMix.htm): David Hastie's AutoMix compiled under Qt Creator
- * [Beast](ToolBeast.htm): my BEAST2 investigations
+ * [AutoMix](https://github.com/richelbilderbeek/AutoMix): David Hastie's AutoMix compiled under Qt Creator
 
 ## Tools I use(d)
 
- * [C++ Builder](CppBuilder.htm): [C++](Cpp.htm) [IDE](CppIde.htm)
- * [Cygwin](CppCygwin.htm): UNIX-like environment, to, among others, [port](CppPort.htm) programs from Linux to Windows
+ * [C++ Builder](https://github.com/richelbilderbeek/cpp/blob/master/content/CppBuilder.md): [C++](https://github.com/richelbilderbeek/cpp/blob/master/content/Cpp.md) [IDE](https://github.com/richelbilderbeek/cpp/blob/master/content/CppIde.md)
+ * [Cygwin](https://github.com/richelbilderbeek/cpp/blob/master/content/CppCygwin.md): UNIX-like environment, to, among others, [port](https://github.com/richelbilderbeek/cpp/blob/master/content/CppPort.md) programs from Linux to Windows
  * Freeplane: mind mapping
- * [gprof](CppGprof.htm): C++ profiler
- * [i686-pc-mingw32-qmake](CppI686-pc-mingw32-qmake.htm): cross-compile Qt Creator projects from Linux to Windows
+ * [gprof](https://github.com/richelbilderbeek/cpp/blob/master/content/CppGprof.md): C++ profiler
+ * [i686-pc-mingw32-qmake](https://github.com/richelbilderbeek/cpp/blob/master/content/CppI686-pc-mingw32-qmake.md): cross-compile Qt Creator projects from Linux to Windows
  * [Issue Mover for GitHub](https://github-issue-mover.appspot.com): move issues across GitHubs
  * LyX: WYSIWYM (the 'm' denotes 'mean') text processor ([LyX homepage](http://www.lyx.org))
- * [Maxima](ToolMaxima.htm): computer algebra system
- * [OpenFOAM](ToolOpenFoam.htm): numerical solvers
- * [Qt Creator](CppQtCreator.htm): [C++](Cpp.htm) [IDE](CppIde.htm)
+ * [Maxima](https://github.com/richelbilderbeek/Maxima): computer algebra system
+ * [OpenFOAM](https://github.com/richelbilderbeek/OpenFoamExamples): numerical solvers
+ * [Qt Creator](https://github.com/richelbilderbeek/cpp/blob/master/content/CppQtCreator.md): [C++](https://github.com/richelbilderbeek/cpp/blob/master/content/Cpp.md) [IDE](https://github.com/richelbilderbeek/cpp/blob/master/content/CppIde.md)
  * Searchmonkey: file searching
- * [Shiny](CppShiny.htm): C++ profiler
- * [SymbolicC++](CppSymbolicCpp.htm): computer algebra system
+ * [Shiny](https://github.com/richelbilderbeek/cpp/blob/master/content/CppShiny.md): C++ profiler
+ * [SymbolicC++](https://github.com/richelbilderbeek/cpp/blob/master/content/CppSymbolicCpp.md): computer algebra system
  * TEA Text Editor: text manipulation
- * [valgrind](CppValgrind.htm): code analysis suite
- * [VirtuaWin](ToolVirtuaWin.htm): multiple desktops
- * [WINE](CppWine.htm): (not a) Windows emulator.
+ * [valgrind](https://github.com/richelbilderbeek/cpp/blob/master/content/CppValgrind.md): code analysis suite
+ * VirtuaWin: multiple desktops
+ * [WINE](https://github.com/richelbilderbeek/cpp/blob/master/content/CppWine.md): (not a) Windows emulator.
  * WinMerge: comparing and merging texts
  * wxMaxima: numerical mathematics
  * xdotool: send keys to windows
-
-## To be phased out
-
- * [TestAbout](ToolTestAbout.htm): tests the About class
- * [TestBroadcastServer](ToolTestBroadcastServer.htm): web application of a multi-visitor edit widget
- * [TestCanvas](ToolTestCanvas.htm): tests the Canvas class
- * [TestChess](ToolTestChess.htm): tests the Chess class
- * [TestConceptMap](ToolTestConceptMap.htm): test the [ConceptMap](CppConceptMap.htm) and [QtConceptMap](CppQtConceptMap.htm) [classes](CppClass.htm)
- * [TestDial](ToolTestDial.htm): test the [Dial](CppDial.htm) and [QtDialWidget](CppQtDialWidget.htm) [classes](CppClass.htm)
- * [TestEntrance](ToolTestEntrance.htm): web application to test the [WtEntrance](CppWtEntrance.htm) [class](CppClass.htm)
- * [TestExercise](ToolTestExercise.htm): tests the Exercise class
- * [TestFunctionParser](ToolTestFunctionParser.htm): a 'calculator' that demonstrates a function parsing class
- * [TestGnuplotInterface](ToolTestGnuplotInterface.htm): tests the GnuplotInterface class
- * [TestGraphicsProxyWidget](ToolTestGraphicsProxyWidget.htm): tests the GraphicsProxyWidget class
- * [TestGravityWidget](ToolTestGravityWidget.htm): tests the GravityWidget class
- * [TestGroupWidget](ToolTestGroupWidget.htm): test the [WtGroupWidget](CppWtGroupWidget.htm) [class](CppClass.htm)
- * [TestHugeVector](ToolTestHugeVector.htm): tests the HugeVector class
- * [TestLazy_init](ToolTestLazy_init.htm): tests the Lazy_init class
- * [TestLed](ToolTestLed.htm): test the [Led](CppLed.htm) and [QtLedWidget](CppQtLedWidget.htm) [classes](CppClass.htm)
- * [TestMultiApproximator](ToolTestMultiApproximator.htm): test the MultiApproximator class
- * [TestMultiVector](ToolTestMultiVector.htm): test the [MultiVector](CppMultiVector.htm) [class](CppClass.htm)
- * [TestMultipleChoiceQuestion](ToolTestMultipleChoiceQuestion.htm): tests the MultipleChoiceQuestion class
- * [TestNdsmake](ToolTestNdsmake.htm): tests [ndsmake](CppNdsmake.htm) 
- * [TestNeuralNet](ToolTestNeuralNet.htm): test the NeuralNet [class](CppClass.htm)
- * [TestOpenQuestion](ToolTestOpenQuestion.htm): tests the OpenQuestion class
- * [TestPlane](ToolTestPlane.htm): tests the OpenQuestion class
- * [TestPrimeExpert](ToolTestPrimeExpert.htm): test the [PrimeExpert](CppPrimeExpert.htm) [class](CppClass.htm)
- * [TestPylos](ToolTestPylos.htm): test the [Pylos](CppPylos.htm) and [PylosWidget](CppPylosWidget.htm) [classes](CppClass.htm)
- * [TestQrcFile](ToolTestQrcFile.htm): test the [QrcFile](CppQrcFile.htm) [class](CppClass.htm)
- * [TestQtArrowItems](ToolTestQtArrowItems.htm): test the [QtArrowItem](CppQtArrowItem.htm) [class](CppClass.htm)
- * [TestQtCreatorProFile](ToolTestQtCreatorProFile.htm): test the [QtCreatorProFile](CppQtCreatorProFile.htm) [class](CppClass.htm)
- * [TestQtHideAndShowDialog](ToolTestQtHideAndShowDialog.htm): test the [QtHideAndShowDialog](CppQtHideAndShowDialog.htm) [class](CppClass.htm)
- * [TestQtKeyboardFriendlyGraphicsView](ToolTestQtKeyboardFriendlyGraphicsView.htm): test the [QtKeyboardFriendlyGraphicsView](CppQtKeyboardFriendlyGraphicsView.htm) [class](CppClass.htm)
- * [TestQtModels](ToolTestQtModels.htm): test my model [classes](CppClass.htm)
- * [TestQtOcrWidget](ToolTestQtOcrWidget.htm): test the [QtOcrWidget](CppQtOcrWidget.htm) [class](CppClass.htm)
- * [TestQtRoundedEditRectItem](ToolTestQtRoundedEditRectItem.htm): test the [QtRoundedEditRectItem](CppQtRoundedEditRectItem.htm) [class](CppClass.htm)
- * [TestQtRoundedRectItem](ToolTestQtRoundedRectItem.htm): test the [QtRoundedRectItem](CppQtRoundedRectItem.htm) [class](CppClass.htm)
- * [TestQtRoundedTextRectItem](ToolTestQtRoundedTextRectItem.htm): test the [QtRoundedTextRectItem](CppQtRoundedTextRectItem.htm) [class](CppClass.htm)
- * [TestQuestion](ToolTestQuestion.htm): test the [Question](CppQuestion.htm) and related [classes](CppClass.htm)
- * [TestReversi](ToolTestReversi.htm): test the [Reversi](CppReversi.htm) [class](CppClass.htm)
- * [TestSelectFileDialog](ToolTestSelectFileDialog.htm): test the SelectFileDialog [classes](CppClass.htm)
- * [TestServerPusher](ToolTestServerPusher.htm): web application of a multi-visitor edit widget
- * [TestShape](ToolTestShape.htm): test the [Shape](CppShape.htm) and [ShapeWidget](CppShapeWidget.htm) [classes](CppClass.htm)
- * [TestShinyButton](ToolTestShinyButton.htm): test the [ShinyButton](CppShinyButton.htm) and related [classes](CppClass.htm)
- * [TestStopwatch](ToolTestStopwatch.htm): test the [Stopwatch](CppStopwatch.htm) [class](CppClass.htm)
- * [TestTextPositionWidget](ToolTestTextPositionWidget.htm): test the [TestTextPositionWidget](CppTestTextPositionWidget.htm) [class](CppClass.htm)
- * [TestTicTacToe](ToolTestTicTacToe.htm): test the TicTacToe [class](CppClass.htm)
- * [TestTimedServerPusher](ToolTestTimedServerPusher.htm): web application of a multi-visitor edit widget
- * [TestToggleButton](ToolTestToggleButton.htm): test the [ToggleButton](CppToggleButton.htm) and related [classes](CppClass.htm)
- * [TestTriangle](ToolTestTriangle.htm): tests Triangle 
- * [TestTwoDigitNewick](ToolTestTwoDigitNewick.htm): test the TwoDigitNewick [class](CppClass.htm)
-
-## Unfinished and unmaintained 
-
- * [FakeEvy](ToolFakeEvy.htm): replacement of Evy Gruyearts' 'Start To Run' series
- * [NdsPaint](ToolNdsPaint.htm): NDS paint 
- * [Rasper](ToolRasper.htm): control the [Raspberry Pi](CppRpi.htm) its GPIO pins from a web interface
- * [MidiLessonCreator](ToolMidiLessonCreator.htm): Creates MIDI lessons
- * [TicTacToeLearner](ToolTicTacToeLearner.htm): demonstration of machine learning by evolving neural networks
- * [TicTacToeValuer](ToolTicTacToeValuer.htm): demonstration of machine learning by state-value graph
- * [VirtualBastard](ToolVirtualBastard.htm): GUI testing
- * [UbuntuOneWatcher](ToolUbuntuOneWatcher.htm): shows what UbuntuOne is doing
-
-## Obsolete
-
- * [CreateGlossary](ToolCreateGlossary.htm): creates the glossaries for this website
- * [RichelBilderbeekGallery](ToolRichelBilderbeekGallery.htm): creates the galleries of this site
- * [RichelbilderbeekNlSitemapGenerator](ToolRichelbilderbeekNlSitemapGenerator.htm): tool to create the sitemap of this site
-
- 
-
-## Tools I have written too
-
-These are some tools I have written too, but I don't like them enough to put in the main list
-
-
- * [It's Belcampo](ToolItsBelcampo.htm): conversion of email addresses
- * [WindowViewer](ToolWindowViewer.htm): failed attempt to view all hidden windows
- * [CallstackCounter](ToolCallstackCounter.htm): C++ call stack counting class
- * [Color Number Determinator](ToolCnd.htm): viewing colors from RGB values
- * [Combinator](ToolCombinator.htm): finds combination of values
- * [CoutChildWindows](ToolCoutChildWindows.htm): shows all (child)windows' text
- * [Empty Text Lines Remover](ToolEmptyTextLinesRemover.htm): removes empty text lines
- * [Encrypter](ToolEncrypter.htm): encrypts a text file, but not as good as Encranger
- * [HaaifsKiller](ToolHaaifsKiller.htm): anti-Hyves tool
- * [Loose](ToolLoose.htm): dynamic website to redirect any emailaddress
- * [RectFitter](ToolRectFitter.htm): demonstrates how to fit rectangles within a rectangle
- * [TestBouncingBallsWidget](ToolTestBouncingBallsWidget.htm): tests the BouncingBallsWidget class
- * [TestBouncingRectsWidget](ToolTestBouncingRectsWidget.htm): tests the BouncingRectsWidget class
