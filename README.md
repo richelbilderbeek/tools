@@ -1,5 +1,10 @@
 # tools
 
+Branch   |[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
+---------|---------------------
+`master` |[![Build Status](https://travis-ci.org/richelbilderbeek/tools.svg?branch=master)](https://travis-ci.org/richelbilderbeek/tools)
+`develop`|[![Build Status](https://travis-ci.org/richelbilderbeek/tools.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/tools)
+
 On this page you can find the tools I have written (in [C++](Cpp.htm))
 and tools I use. Tools for entertainment purposes can be found at [my
 games page](https://github.com/richelbilderbeek/games).
