@@ -2,6 +2,7 @@
 name: check_links
 
 on:
+  workflow_dispatch:
   push:
     paths:
       - .github/workflows/check_links.yaml
