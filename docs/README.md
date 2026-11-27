@@ -234,6 +234,20 @@ Determines if a number is prime.
 
 ![PrimeExpert](pics/PrimeExpert3_0.png)
 
+#### [ProjectChrisWiley](https://richelbilderbeek.github.io/ProjectChrisWiley/)
+
+Simulation that investigates cross-species mating
+for different species densities.
+
+![ProjectChrisWiley](pics/ProjectChrisWiley_1_0.png)
+
+#### [ProjectRampal](https://richelbilderbeek.github.io/ProjectRampal/)
+
+Tool to benchmark algorithms that calculate
+the probability of a phylogeny.
+
+![ProjectRampal](pics/ProjectRampal.png)
+
 #### [QmakeWatcher](https://richelbilderbeek.github.io/QmakeWatcher/)
 
 See what qmake does to a makefile.
@@ -323,6 +337,13 @@ Plots a user-defined two-dimensional function.
 
 ![SurfacePlotter](pics/SurfacePlotter_ToolSurfacePlotter_2_2.png)
 
+#### [The Bristol Project](https://richelbilderbeek.github.io/the_bristol_project/)
+
+MSc project that investigates the influence of
+phenotypic plasticity on population dynamics.
+
+![The Bristol Project](pics/the_bristol_project.png)
+
 #### [ThresholdFilterer](https://richelbilderbeek.github.io/ThresholdFilterer/)
 
 Performs a threshold filter operation on an image.
@@ -352,6 +373,15 @@ Implementation of a frequency Newick.
 Visual ABC music notation editor.
 
 ![VisualAbc](pics/VisualAbc_2_0.png)
+
+### Wt
+
+#### [GTST](https://richelbilderbeek.github.io/GTST/)
+
+Website for performing game theory experiments,
+in which both administrators and participants can log in.
+
+![GTST](pics/ProjectGtst_1_2.png)
 
 ### NDS
 
@@ -490,6 +520,20 @@ Pixelates images.
 Determines if a number is prime.
 
 ![PrimeExpert (VCL)](pics/PrimeExpertVcl_ToolPrimeExpert_2_1.png)
+
+#### [ProjectMuscaDomestica](https://richelbilderbeek.github.io/ProjectMuscaDomestica/)
+
+Simulation that investigates sex-determining systems
+for different dispersal scenarios.
+
+![ProjectMuscaDomestica](pics/ProjectMuscaDomestica_1_0.png)
+
+#### [ProjectThorVeen](https://richelbilderbeek.github.io/ProjectThorVeen/)
+
+Simulation about costless and honest signalling
+using the Hawk-Dove game.
+
+![ProjectThorVeen](pics/ProjectThorVeen_0_9.png)
 
 #### [QuadraticSolver (VCL)](https://richelbilderbeek.github.io/QuadraticSolverVcl/)
 
